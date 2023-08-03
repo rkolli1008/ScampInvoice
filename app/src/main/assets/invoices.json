@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV001",
+    "customerName": "John Doe",
+    "amount": 100.0,
+    "date": "2023-07-31",
+    "dueDate": "2023-08-10",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV002",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV003",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV004",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV005",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV006",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV007",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV008",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV009",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV0010",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "invoiceNumber": "INV0011",
+    "customerName": "Jane Smith",
+    "amount": 150.0,
+    "date": "2023-07-30",
+    "dueDate": "2023-08-15",
+    "status": "Paid"
+  }
+]
