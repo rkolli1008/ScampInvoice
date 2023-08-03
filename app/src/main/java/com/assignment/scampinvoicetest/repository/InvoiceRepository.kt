@@ -1,8 +1,8 @@
-package com.assignment.scampinvoicetest
+package com.assignment.scampinvoicetest.repository
 
 import android.content.Context
 import android.util.Log
-import com.assignment.scampinvoicetest.data.Invoice
+import com.assignment.scampinvoicetest.models.Invoice
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import java.io.BufferedReader

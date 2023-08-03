@@ -12,6 +12,9 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.assignment.scampinvoicetest.ui.theme.ScampInvoiceTestTheme
+import com.assignment.scampinvoicetest.ui.views.EditInvoiceScreen
+import com.assignment.scampinvoicetest.ui.views.InvoiceListScreen
+import com.assignment.scampinvoicetest.viewmodel.InvoiceViewModel
 
 class MainActivity : ComponentActivity() {
     private val viewModel by lazy {

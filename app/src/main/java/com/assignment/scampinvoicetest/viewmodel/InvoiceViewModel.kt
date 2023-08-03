@@ -1,11 +1,12 @@
-package com.assignment.scampinvoicetest
+package com.assignment.scampinvoicetest.viewmodel
 
 import android.content.Context
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.assignment.scampinvoicetest.data.Invoice
+import com.assignment.scampinvoicetest.repository.InvoiceRepository
+import com.assignment.scampinvoicetest.models.Invoice
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

@@ -1,4 +1,4 @@
-package com.assignment.scampinvoicetest
+package com.assignment.scampinvoicetest.ui.views
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
@@ -17,7 +17,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.assignment.scampinvoicetest.data.Invoice
+import com.assignment.scampinvoicetest.models.Invoice
 
 @Composable
 fun InvoiceListScreen(
